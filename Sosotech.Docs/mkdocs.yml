@@ -1,6 +1,69 @@
-site_name: My Docs
-site_url: https://example.com/
+site_name: ANGEL-PALMS HOME HEALTH CARE
+site_url: http://angelpalmshhcare.com/
+site_description: APHHC Documentation
+theme:
+  name: readthedocs
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+extra_css:
+- assets/stylesheets/extra.css
+extra_javascript:
+- assets/javascripts/extra.js
+extra:
+  social:
+  - type: github
+    link: https://github.com/sosotechnologies/angel-hhc
+
+markdown_extensions:
+- markdown.extensions.admonition
 nav:
-    - Home: index.md
-    - Article: article.md
+ - Home: index.md
+ - Homecare Services: 
+   - Pedriatic Care: aphhc/services/pedriatic.md
+   - Critical Care: aphhc/services/critical.md
+   - Add Care 1: aphhc/services/add1.md
+   - Add Care 2: aphhc/services/add2.md
+ - Contacts: aphhc/contacts/contacts.md
+  
+ 
+ 
     
