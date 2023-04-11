@@ -60,9 +60,10 @@ nav:
  - Homecare Services: 
    - Pedriatic Care: aphhc/services/pedriatic.md
    - Critical Care: aphhc/services/critical.md
-   - Add Care 1: aphhc/services/add1.md
-   - Add Care 2: aphhc/services/add2.md
- - Contacts: aphhc/contacts/contacts.md
+   #- Add Care 1: aphhc/services/add1.md
+   #- Add Care 2: aphhc/services/add2.md
+ - Contacts: 
+   - Contacts: aphhc/contacts/contacts.md
   
  
  
