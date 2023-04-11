@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
+         <loc>http://angelpalmshhcare.com/</loc>
          <lastmod>2023-04-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/Getting-Started/local-install/</loc>
+         <loc>http://angelpalmshhcare.com/aphhc/contacts/contacts/</loc>
          <lastmod>2023-04-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/Getting-Started/remote-install/</loc>
+         <loc>http://angelpalmshhcare.com/aphhc/services/add1/</loc>
          <lastmod>2023-04-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/weekly/contacts/cicd/</loc>
+         <loc>http://angelpalmshhcare.com/aphhc/services/add2/</loc>
          <lastmod>2023-04-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/weekly/services/azure/</loc>
+         <loc>http://angelpalmshhcare.com/aphhc/services/critical/</loc>
+         <lastmod>2023-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://angelpalmshhcare.com/aphhc/services/pedriatic/</loc>
          <lastmod>2023-04-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
