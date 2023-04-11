@@ -11,12 +11,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://angelpalmshhcare.com/aphhc/services/add1/</loc>
-         <lastmod>2023-04-11</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://angelpalmshhcare.com/aphhc/services/add2/</loc>
+         <loc>http://angelpalmshhcare.com/aphhc/services/assisted/</loc>
          <lastmod>2023-04-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -26,7 +21,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://angelpalmshhcare.com/aphhc/services/hospice/</loc>
+         <lastmod>2023-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://angelpalmshhcare.com/aphhc/services/palliative/</loc>
+         <lastmod>2023-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://angelpalmshhcare.com/aphhc/services/pedriatic/</loc>
+         <lastmod>2023-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://angelpalmshhcare.com/aphhc/services/short/</loc>
+         <lastmod>2023-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://angelpalmshhcare.com/aphhc/services/skilled/</loc>
          <lastmod>2023-04-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
