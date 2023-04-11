@@ -6,7 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/article/</loc>
+         <loc>https://example.com/Getting-Started/local-install/</loc>
+         <lastmod>2023-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/Getting-Started/remote-install/</loc>
+         <lastmod>2023-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/weekly/contacts/cicd/</loc>
+         <lastmod>2023-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/weekly/services/azure/</loc>
          <lastmod>2023-04-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
