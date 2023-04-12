@@ -58,10 +58,13 @@ markdown_extensions:
 nav:
  - Home: index.md
  - Homecare Services: 
+   - Assisted Living: aphhc/services/assisted.md
+  # - Critical Care: aphhc/services/critical.md
+   - Hospice: aphhc/services/hospice.md
+   - Palliative Care: aphhc/services/palliative.md
    - Pedriatic Care: aphhc/services/pedriatic.md
-   - Critical Care: aphhc/services/critical.md
-   #- Add Care 1: aphhc/services/add1.md
-   #- Add Care 2: aphhc/services/add2.md
+  # - Short Term Care: aphhc/services/short.md
+   - Skilled Nursing: aphhc/services/skilled.md
  - Contacts: 
    - Contacts: aphhc/contacts/contacts.md
   
