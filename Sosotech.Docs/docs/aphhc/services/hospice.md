@@ -1,6 +1,8 @@
 We provide hospice care priorities to support and care for your loved ones to 
 achieve the best quality care that is needed during a difficult time of their lives.
 
+![critical](photos/critical.png)
+
 We Hospice provides quality care through a team approach and offers a means to achieve what people say they really want at the end of life:
 
 ***We provide the FOUR LEVELS OF CARE***
